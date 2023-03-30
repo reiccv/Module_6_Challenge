@@ -62,3 +62,4 @@ Include a descriptive title.
 
 # Compose Your Data Story
 
+![alt text](https://github.com/reiccv/Module_6_Challenge/blob/main/Images/datastory.PNG)
